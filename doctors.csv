@@ -1,0 +1,191 @@
+Name,Specialization,Review Rating,Total Reviews
+Dr. Emily Johnson,Cardiology,4.6,56
+Dr. Michael Smith,Orthopedics,4.5,120
+Dr. Jessica Davis,Neurology,4.9,44
+Dr. Aisha Malik,Cardiothoracic Surgery,4.6,127
+Dr. Omar Ali,Gastroenterology,3.9,89
+Dr. Fatima Ahmed,Pediatric Hematology-Oncology,4.2,156
+Dr. Yusuf Khan,Infectious Disease,3.8,74
+Dr. Zainab Ali,Gynecologic Oncology,4.1,112
+Dr. Christopher Lee,Dermatology,4.3,12
+Dr. Ashley Wilson,Obstetrics and Gynecology,4.7,18
+Dr. Benjamin Taylor,Internal Medicine,4.6,436
+Dr. Olivia Brown,Pediatrics,4.8,42
+Dr. Mei Tan,Cardiothoracic Surgery,4.6,127
+Dr. Hiroshi Yamamoto,Gastroenterology,3.9,89
+Dr. Priya Patel,Pediatric Hematology-Oncology,4.2,156
+Dr. Chang Li,Infectious Disease,3.8,74
+Dr. Aisha Khan,Gynecologic Oncology,4.1,112
+Dr. Ji-hoon Kim,Physical Medicine and Rehabilitation,4.7,103
+Dr. Sanjay Singh,Pediatric Infectious Diseases,4.5,135
+Dr. Mei Lin,Vascular Surgery,4.0,81
+Dr. Ethan Miller,Ophthalmology,4.4,33
+Dr. Sophia Anderson,Psychiatry,4.9,1
+Dr. Matthew Garcia,Surgery,4.5,567
+Dr. Yuki Tanaka,Child and Adolescent Psychiatry,4.8,142
+Dr. Ryota Suzuki,Colorectal Surgery,4.4,96
+Dr. Mei Ling,Sleep Medicine,3.2,67
+Dr. Suki Tan,Medical Microbiology,3.7,82
+Dr. Leela Patel,Obstetrics and Gynecology,2.1,43
+Dr. Yuki Tanaka,Child and Adolescent Psychiatry,2.9,64
+Dr. Mei Wang,Urology,3.3,72
+Dr. Mei Wong,Endocrinology,4.1,117
+Dr. Mei Li,Dermatopathology,2.2,48
+Dr. Hiroshi Tanaka,Pediatric Orthopedics,3.1,54
+Dr. Meera Kapoor,Reproductive Endocrinology and Infertility,2.3,41
+Dr. Mei Lin,Psychiatry,1.9,29
+Dr. Rajiv Patel,Pediatric Emergency Medicine,4.0,86
+Dr. Mei Chen,Internal Medicine,2.6,38
+Dr. Akira Nakamura,Neurology,3.9,94
+Dr. Mei Kim,Colorectal Surgery,2.0,23
+Dr. Yuki Sato,Pediatric Urology,3.0,46
+Dr. Ahmad Hassan,Physical Medicine and Rehabilitation,4.7,103
+Dr. Khadija Rahman,Pediatric Infectious Diseases,4.5,135
+Dr. Bilal Ahmed,Vascular Surgery,4.0,81
+Dr. Ayesha Khan,Child and Adolescent Psychiatry,4.8,142
+Dr. Kareem Ahmed,Colorectal Surgery,4.4,96
+Dr. Layla Ahmed,Sleep Medicine,3.2,67
+Dr. Yusuf Hassan,Pediatric Cardiology,3.8,77
+Dr. Sara Ahmed,Plastic Surgery,2.5,58
+Dr. Farid Khan,Medical Genetics,3.0,68
+Dr. Mei Ling,Sports Medicine,2.5,42
+Dr. Hiroshi Yamamoto,Pediatric Allergy and Immunology,2.1,47
+Dr. Rajan Patel,Anesthesiology,2.4,37
+Dr. Aisha Khan,Pediatric Neurology,4.2,99
+Dr. Hiroshi Kuroda,Medical Toxicology,3.6,79
+Dr. Aisha Malik,Radiation Oncology,2.7,53
+Dr. Yuki Takahashi,Sleep Medicine,3.4,61
+Dr. Hiroshi Nakamura,Pediatric Cardiology,3.8,77
+Dr. Aisha Patel,Plastic Surgery,2.5,58
+Dr. Akira Sato,Medical Genetics,3.0,68
+Dr. Naima Ali,Pediatric Rheumatology,3.5,52
+Dr. Imran Youssef,Interventional Cardiology,2.8,49
+Dr. Amina Khalid,Medical Microbiology,3.7,82
+Dr. Ali Malik,Obstetrics and Gynecology,2.1,43
+Dr. Aisha Aziz,Child and Adolescent Psychiatry,2.9,64
+Dr. Yasin Ahmed,Urology,3.3,72
+Dr. Fatima Ali,Endocrinology,4.1,117
+Dr. Kareem Patel,Anesthesiology,2.4,37
+Dr. Aisha Khan,Pediatric Neurology,4.2,99
+Dr. Iman Khalid,Medical Toxicology,3.6,79
+Dr. Sarah Rahman,Radiation Oncology,2.7,53
+Dr. Yusuf Tan,Sleep Medicine,3.4,61
+Dr. Ayesha Malik,Dermatopathology,2.2,48
+Dr. Mei Chen,Pediatric Rheumatology,3.5,52
+Dr. Kenjiro Yoshida,Interventional Cardiology,2.8,49
+Dr. Emily Johnson,Cardiology,4.8,120
+Dr. Michael Smith,Orthopedics,4.5,90
+Dr. Jessica Davis,Neurology,4.9,150
+Dr. Christopher Lee,Dermatology,4.3,80
+Dr. Ashley Wilson,Obstetrics and Gynecology,4.7,110
+Dr. Benjamin Taylor,Internal Medicine,4.6,100
+Dr. Olivia Brown,Pediatrics,4.8,130
+Dr. Ethan Miller,Ophthalmology,4.4,85
+Dr. Sophia Anderson,Psychiatry,4.9,140
+Dr. Matthew Garcia,Surgery,4.5,95
+Dr. Samantha White,Endocrinology,3.2,70
+Dr. Ibrahim Ali,Pediatric Orthopedics,3.1,54
+Dr. Naima Farid,Reproductive Endocrinology and Infertility,2.3,41
+Dr. Aisha Rahman,Psychiatry,1.9,29
+Dr. Bilal Khan,Pediatric Emergency Medicine,4.0,86
+Dr. Amina Ahmed,Internal Medicine,2.6,38
+Dr. Omar Hassan,Neurology,3.9,94
+Dr. Layla Farid,Colorectal Surgery,2.0,23
+Dr. Yasin Saeed,Pediatric Urology,3.0,46
+Dr. Fatima Ali,Sports Medicine,2.5,42
+Dr. Ibrahim Ahmed,Pediatric Allergy and Immunology,2.1,47
+Dr. Jonathan Turner,Gastroenterology,3.8,75
+Dr. Lauren Harris,Hematology,2.5,60
+Dr. Daniel Martinez,Infectious Disease,3.0,65
+Dr. Rachel Adams,Nephrology,3.5,55
+Dr. Andrew Parker,Cardiovascular Disease,2.8,50
+Dr. Julia Robinson,Orthopedic Surgery,3.7,80
+Dr. Kevin Clark,Plastic Surgery,2.1,45
+Dr. Megan Taylor,Rheumatology,2.9,60
+Dr. Nicholas Carter,Urology,3.3,70
+Dr. Emma Wright,Allergy and Immunology,4.1,110
+Dr. Brian Hall,Anesthesiology,2.4,40
+Dr. Natalie Miller,Obstetrics and Gynecology,4.2,95
+Dr. Alex Scott,Oncology,3.6,75
+Dr. Vanessa Turner,Otolaryngology,2.7,50
+Dr. Adam Martinez,Pulmonology,3.4,65
+Dr. Hannah Baker,Radiology,2.2,45
+Dr. Zachary Ward,Rheumatology,3.1,55
+Dr. Amber Green,Urology,2.3,40
+Dr. Joshua Evans,Psychiatry,1.9,30
+Dr. Grace Hill,Family Medicine,4.0,85
+Dr. Ryan Lopez,Internal Medicine,2.6,35
+Dr. Victoria King,Neurology,3.9,90
+Dr. Dylan Campbell,Dermatology,2.0,25
+Dr. Sydney Ross,Cardiology,3.0,50
+Dr. Jordan Carter,Orthopedics,2.5,40
+Dr. Kimberly Adams,Neonatology,4.6,120
+Dr. Brandon Miller,Cardiac Surgery,3.9,90
+Dr. Vanessa Turner,Pediatric Hematology-Oncology,4.2,150
+Dr. Jared Harris,Infectious Disease,3.8,80
+Dr. Lauren Davis,Gynecologic Oncology,4.1,110
+Dr. Samuel Taylor,Physical Medicine and Rehabilitation,4.7,100
+Dr. Michelle Carter,Pediatric Infectious Diseases,4.5,130
+Dr. Eric Johnson,Vascular Surgery,4.0,85
+Dr. Rachel Martinez,Child and Adolescent Psychiatry,4.8,140
+Dr. Nicholas White,Colorectal Surgery,4.4,95
+Dr. Heather Turner,Sleep Medicine,3.2,70
+Dr. Justin Hill,Pediatric Cardiology,3.8,75
+Dr. Alicia Brown,Plastic Surgery,2.5,60
+Dr. Gregory Turner,Medical Genetics,3.0,65
+Dr. Danielle Robinson,Pediatric Rheumatology,3.5,55
+Dr. Nathan Carter,Interventional Cardiology,2.8,50
+Dr. Amelia Smith,Medical Microbiology,3.7,80
+Dr. Patrick Evans,Obstetrics and Gynecology,2.1,45
+Dr. Sophia Garcia,Child and Adolescent Psychiatry,2.9,60
+Dr. Zachary Turner,Urology,3.3,70
+Dr. Emily Wright,Endocrinology,4.1,110
+Dr. Jonathan Hall,Anesthesiology,2.4,40
+Dr. Olivia Lopez,Pediatric Neurology,4.2,95
+Dr. Joshua King,Medical Toxicology,3.6,75
+Dr. Rachel Baker,Radiation Oncology,2.7,50
+Dr. Benjamin Ward,Sleep Medicine,3.4,65
+Dr. Victoria Green,Dermatopathology,2.2,45
+Dr. Ethan Hill,Pediatric Orthopedics,3.1,55
+Dr. Megan Ross,Reproductive Endocrinology and Infertility,2.3,40
+Dr. Brian Evans,Psychiatry,1.9,30
+Dr. Haley Campbell,Pediatric Emergency Medicine,4.0,85
+Dr. Kevin Turner,Internal Medicine,2.6,35
+Dr. Sydney Martinez,Neurology,3.9,90
+Dr. Christopher Adams,Colorectal Surgery,2.0,25
+Dr. Emma Scott,Pediatric Urology,3.0,50
+Dr. Jordan Turner,Sports Medicine,2.5,40
+Dr. Samantha Evans,Pediatric Allergy and Immunology,2.1,45
+Dr. Emily Turner,Cardiothoracic Surgery,4.6,127
+Dr. Noah Garcia,Gastroenterology,3.9,89
+Dr. Ava Taylor,Pediatric Hematology-Oncology,4.2,156
+Dr. Jackson Harris,Infectious Disease,3.8,74
+Dr. Zoey Davis,Gynecologic Oncology,4.1,112
+Dr. Liam Taylor,Physical Medicine and Rehabilitation,4.7,103
+Dr. Mia Carter,Pediatric Infectious Diseases,4.5,135
+Dr. Owen Johnson,Vascular Surgery,4.0,81
+Dr. Stella Martinez,Child and Adolescent Psychiatry,4.8,142
+Dr. Isaiah White,Colorectal Surgery,4.4,96
+Dr. Chloe Turner,Sleep Medicine,3.2,67
+Dr. Elijah Hill,Pediatric Cardiology,3.8,77
+Dr. Isabella Brown,Plastic Surgery,2.5,58
+Dr. Mason Turner,Medical Genetics,3.0,68
+Dr. Aria Robinson,Pediatric Rheumatology,3.5,52
+Dr. Ethan Carter,Interventional Cardiology,2.8,49
+Dr. Sofia Smith,Medical Microbiology,3.7,82
+Dr. Levi Evans,Obstetrics and Gynecology,2.1,43
+Dr. Scarlett Garcia,Child and Adolescent Psychiatry,2.9,64
+Dr. Zane Turner,Urology,3.3,72
+Dr. Layla Wright,Endocrinology,4.1,117
+Dr. Caleb Hall,Anesthesiology,2.4,37
+Dr. Penelope Lopez,Pediatric Neurology,4.2,99
+Dr. Isaac King,Medical Toxicology,3.6,79
+Dr. Harper Baker,Radiation Oncology,2.7,53
+Dr. Eli Ward,Sleep Medicine,3.4,61
+Dr. Addison Green,Dermatopathology,2.2,48
+Dr. Aurora Hill,Pediatric Orthopedics,3.1,54
+Dr. Hudson Ross,Reproductive Endocrinology and Infertility,2.3,41
+Dr. Grace Evans,Psychiatry,1.9,29
+Dr. Luke Campbell,Pediatric Emergency Medicine,4.0,86
+Dr. Lily Turner,Internal Medicine,2.6,38
+Dr. Oliver Martinez,Neurology,3.9,94
