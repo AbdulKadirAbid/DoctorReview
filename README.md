@@ -1,4 +1,3 @@
-```markdown
 # Doctor Review GUI
 
 "Doctor Review" is a Java Swing-based desktop application that allows users to browse, search, and leave feedback for doctors. This project focuses on GUI development and user interaction using Java Swing components, built with Maven and runnable via `.jar` or through an IDE like Eclipse.
